@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## lorem ipsum
 
-You can use the [editor on GitHub](https://github.com/BEugeneSmith/BEugeneSmith.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About
+I am a Chicago-based Data Scientist interested in complex systems thinking.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you'd like to learn more about me, go [here](https://medium.com/@eugenesmith_3019/a-brief-personal-manifesto-3b4f38641166).
 
-### Markdown
+### Current Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Recent Projects
+- As avid podcast consumer I wanted to see if I could remove any redundancies from my regular listening and still remain an informed citizen so I tracked my listening over a couple of years and published that [here](https://github.com/BEugeneSmith/PodcastAnalysis2017).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BEugeneSmith/BEugeneSmith.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+I can be reached at [beugenesmith@gmail.com](mailto:beugenesmith@gmail.com?subject=[Inquiry]%20Source%20Han%20Sans).
