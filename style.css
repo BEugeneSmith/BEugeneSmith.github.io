@@ -1,30 +1,28 @@
 @font-face {
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Helvetica', monospace;
     font-weight: 400;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Helvetica', monospace;
     font-weight: 700;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Helvetica', monospace;
     font-weight: 400;
     font-style: italic;
 }
 
 @font-face {
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Helvetica', monospace;
     font-weight: 700;
     font-style: italic;
 }
 
 #background {
-    width: 200px;
-    height: 160px;
     background: url('http://i.stack.imgur.com/GySvQ.png');
 }
 
@@ -305,12 +303,20 @@
 }
 
 body {
-    background-color: #fff;
-    padding: 50px;
-    font: 14px/1.5 "Cutive Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    padding: 70px;
+    font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #727272;
     font-weight: 700
 }
+
+.projHead{
+    max-width: fit-content;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space: nowrap;
+    background-color: #ffffff;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
     color: #222;
@@ -318,11 +324,26 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p, ul, ol, table, pre, dl {
-    margin: 0 0 20px
+    margin: 0 0 20px;
+    background-color: #ffffff;
+    max-width: fit-content;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space:normal;
+}
+
+.contentSnip {
+    text-align: justify;
+    background-color: #ffffff;
+    max-width: 470px;
+    text-overflow: clip;
+    overflow: hidden;
+    white-space:normal;
 }
 
 h1, h2, h3 {
-    line-height: 1.1
+    line-height: 1.1;
+    background-color: #ffffff;
 }
 
 h1 {
@@ -408,9 +429,9 @@ img {
 }
 
 header {
-    width: 270px;
-    float: left;
-    position: fixed;
+    max-width:fit-content;
+    /* float: left; */
+    /* position: fixed; */
     -webkit-font-smoothing: subpixel-antialiased
 }
 
