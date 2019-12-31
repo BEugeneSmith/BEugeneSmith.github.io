@@ -1,5 +1,3 @@
-## lorem ipsum
-
 ### About
 I am a Chicago-based Data Scientist interested in complex systems thinking.
 
