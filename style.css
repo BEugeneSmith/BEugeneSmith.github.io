@@ -24,6 +24,7 @@
 
 #background {
     background: url('http://i.stack.imgur.com/GySvQ.png');
+    /* background: url('http://github.com/BEugeneSmith/BEugeneSmith.github.io/blob/master/updated_window.png'); */
 }
 
 .highlight table td {
@@ -351,7 +352,7 @@ h1 {
 }
 
 h2 {
-    color: #393939
+    color: #10316B
 }
 
 h3, h4, h5, h6 {
@@ -359,12 +360,12 @@ h3, h4, h5, h6 {
 }
 
 a {
-    color: #267CB9;
+    color: #E25822;
     text-decoration: none
 }
 
 a:hover, a:focus {
-    color: #069;
+    color: #ED8240;
     font-weight: bold
 }
 
