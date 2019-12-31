@@ -22,6 +22,12 @@
     font-style: italic;
 }
 
+#background {
+    width: 200px;
+    height: 160px;
+    background: url('http://i.stack.imgur.com/GySvQ.png');
+}
+
 .highlight table td {
     padding: 5px
 }
@@ -301,9 +307,9 @@
 body {
     background-color: #fff;
     padding: 50px;
-    font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 14px/1.5 "Cutive Mono", "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: #727272;
-    font-weight: 400
+    font-weight: 700
 }
 
 h1, h2, h3, h4, h5, h6 {
