@@ -113,8 +113,6 @@ a:hover small {
 
 header {
     max-width:fit-content;
-    /* float: left; */
-    /* position: fixed; */
     -webkit-font-smoothing: subpixel-antialiased
 }
 
